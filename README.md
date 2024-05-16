@@ -1,6 +1,6 @@
 ![M.Sc. in Data Science graduate from BGU.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-#Yuval Siman-Tov Levy
+# Yuval Siman-Tov Levy
 I'm Yuval from Israel. M.Sc. in Data Science graduate from BGU with over 4 years of experience in data analysis in the public sector. You can check pot my linkedin at linkedin.com/in/yuval-levy-b6a276114.
 
 ## Skills and Experience
