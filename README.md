@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 I'm Yuval from Israel. M.Sc. in Data Science graduate from BGU with over 4 years of experience in data analysis in the public sector. You can check pot my linkedin at linkedin.com/in/yuval-levy-b6a276114.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-Levy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
