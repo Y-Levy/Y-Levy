@@ -5,7 +5,11 @@
 <h1 align="center">I'm Yuval👋</h1>
 
 <p align="left">
-  I have recently received my M.Sc. in Data Science from BGU, Israel. I am proficient with deep learning frameworks in High-Performance Computing, additionaly, I have over 4 years of experience in data analysis with application to economics and public-policy research. I     have Strong mathematical background and fluent in Pyhton, R, SQL. 
+  I have recently received my M.Sc. in Data Science from BGU, Israel and looking for my first job in the tech industry. 
+  <br />
+  I am proficient with deep learning frameworks in High-Performance Computing, additionaly, I have over 4 years of experience in data analysis with application to economics and public-policy research. 
+  <br />
+  I have Strong mathematical background and fluent in Pyhton, R, SQL. 
   <br />
   Check out my linkedin profile: 
 </p>
