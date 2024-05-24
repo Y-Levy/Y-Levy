@@ -15,7 +15,7 @@ I'm Yuval from Israel. M.Sc. in Data Science graduate from BGU with over 4 years
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Overleaf" width="26px" src="https://github.com/Y-Levy/Y-Levy/blob/main/overleaf-seeklogo.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="SLURM" width="36px" src="https://github.com/Y-Levy/Y-Levy/blob/main/images-removebg-preview.png" style="padding-right:10px;" />
+<img align="left" alt="SLURM" width="34px" src="https://github.com/Y-Levy/Y-Levy/blob/main/images-removebg-preview.png" style="padding-right:10px;" />
 <br />
 
 ---
