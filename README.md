@@ -1,5 +1,6 @@
 # Yuval Levy
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2UwOGp3cDVrb3U4OWNrNXoxbm5sYXg1cjdsNG9saDhhZnl5YWRlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif" width="256" />
+I'm Yuval!
 M.Sc. in Data Science, proficient with deep learning frameworks in High-Performance Computing. 
 Over 4 years of experience in data analysis with application to economics and public-policy research.
 Strong mathematical background and fluent in Pyhton, R, SQL. 
