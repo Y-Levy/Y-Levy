@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/3ornk57KwDXf81rjWM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/starwars-movie-star-wars-3ornk57KwDXf81rjWM">via GIPHY</a></p>
+[<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/3ornk57KwDXf81rjWM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/starwars-movie-star-wars-3ornk57KwDXf81rjWM">via GIPHY</a></p>](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2UwOGp3cDVrb3U4OWNrNXoxbm5sYXg1cjdsNG9saDhhZnl5YWRlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif)
 
 # Yuval Siman-Tov Levy
 I'm Yuval from Israel. M.Sc. in Data Science graduate from BGU with over 4 years of experience in data analysis in the public sector. You can check pot my linkedin at linkedin.com/in/yuval-levy-b6a276114.
