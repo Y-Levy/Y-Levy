@@ -3,8 +3,6 @@
 I have recently received my M.Sc. in Data Science from BGU, Israel. I am proficient with deep learning frameworks in High-Performance Computing, additionaly, I have over 4 years of experience in data analysis with application to economics and public-policy research.
 I have Strong mathematical background and fluent in Pyhton, R, SQL. Check out my linkedin profile: 
 
----
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuval-levy-b6a276114/) 
 
 ---
