@@ -9,7 +9,7 @@ I'm Yuval from Israel. M.Sc. in Data Science graduate from BGU with over 4 years
 ## Examples of Work
 
 <img align="left" alt="R" width="26px" src="https://github.com/Y-Levy/Y-Levy/blob/main/rstudio-svgrepo-com.svg" style="padding-right:10px;" />
-<img align="left" vertical-align=5px alt="Python" width="26px" src="https://github.com/Y-Levy/Y-Levy/blob/main/Pyhton.jpg" style="padding-right:10px;" />
+<img align="left" vertical-align=15px alt="Python" width="26px" src="https://github.com/Y-Levy/Y-Levy/blob/main/Pyhton.jpg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/Y-Levy/Y-Levy/blob/main/SQL.jpg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Overleaf" width="26px" src="https://github.com/Y-Levy/Y-Levy/blob/main/overleaf.png" style="padding-right:10px;" />
