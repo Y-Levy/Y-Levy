@@ -1,12 +1,10 @@
+# Yuval Levy
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2UwOGp3cDVrb3U4OWNrNXoxbm5sYXg1cjdsNG9saDhhZnl5YWRlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif" width="256" />
+M.Sc. in Data Science, proficient with deep learning frameworks in High-Performance Computing. 
+Over 4 years of experience in data analysis with application to economics and public-policy research.
+Strong mathematical background and fluent in Pyhton, R, SQL. 
 
-# Yuval Siman-Tov Levy
-I'm Yuval from Israel. M.Sc. in Data Science graduate from BGU with over 4 years of experience in data analysis in the public sector. You can check pot my linkedin at linkedin.com/in/yuval-levy-b6a276114.
-
-## Skills and Experience
-✔ Python, R, SQL
-
-## Examples of Work
+## 🧰 Toolkit
 
 <img align="left" alt="Pytorch" width="30px" src="https://github.com/Y-Levy/Y-Levy/blob/main/clipart4769276.png" style="padding-right:10px;" />
 <img align="left" alt="SLURM" width="34px" src="https://github.com/Y-Levy/Y-Levy/blob/main/images-removebg-preview.png" style="padding-right:10px;" />
