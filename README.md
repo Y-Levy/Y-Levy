@@ -11,9 +11,9 @@ I'm Yuval from Israel. M.Sc. in Data Science graduate from BGU with over 4 years
 <img align="left" alt="R" width="26px" src="https://github.com/Y-Levy/Y-Levy/blob/main/rstudio-svgrepo-com.svg" style="padding-right:10px;" />
 <img align="left" vertical-align=15px alt="Python" width="26px" src="https://github.com/Y-Levy/Y-Levy/blob/main/Pyhton.jpg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/Y-Levy/Y-Levy/blob/main/SQL.jpg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Overleaf" width="26px" src="https://github.com/Y-Levy/Y-Levy/blob/main/overleaf.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br />
 
 ---
