@@ -8,6 +8,7 @@ I'm Yuval from Israel. M.Sc. in Data Science graduate from BGU with over 4 years
 
 ## Examples of Work
 
+<img align="left" alt="R" width="30px" src="https://github.com/Y-Levy/Y-Levy/blob/main/rstudio-svgrepo-com.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://github.com/Y-Levy/Y-Levy/raw/main/python.png" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="30px" src="https://github.com/Y-Levy/Y-Levy/blob/main/SQL.jpg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
