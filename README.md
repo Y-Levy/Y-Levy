@@ -14,7 +14,7 @@
   Check out my linkedin profile: 
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuval-levy-b6a276114/) 
+[<img src='https://github.com/Y-Levy/Y-Levy/blob/main/Linkedin-logo-transparent-PNG.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuval-levy-b6a276114/) 
 
 ---
 ## 🧰 Toolkit
