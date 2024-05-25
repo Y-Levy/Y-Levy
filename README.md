@@ -7,7 +7,8 @@
 <p align="left">
   I have recently received my M.Sc. in Data Science from BGU, Israel (thesis in deep ensemble learning for time-series forecasting).
   <br />
-  I am proficient with deep learning frameworks in High-Performance Computing, additionaly, I have over 4 years of experience in data analysis with application to    economics and public-policy research. 
+  I am proficient with deep learning frameworks in High-Performance Computing.
+  I also have over 4 years of experience in data analysis with application to economics and public-policy research. 
   <br />
   <br />
   Check out my linkedin profile: 
