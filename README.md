@@ -9,7 +9,9 @@
   <br />
   I am proficient with deep learning frameworks in High-Performance Computing, additionaly, I have over 4 years of experience in data analysis with application to    economics and public-policy research. 
   <br />
+  <br />
   With a proven track record of delivering results-driven solutions and a commitment to staying at the forefront of industry advancements, I am eager to contribute   my expertise and drive success within any data-focused team.
+  <br />
   <br />
   <br />
   Check out my linkedin profile: 
