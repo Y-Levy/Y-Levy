@@ -5,11 +5,11 @@
 <h1 align="center">I'm Yuval👋</h1>
 
 <p align="left">
-  Over 4 years of experience as a data scientist (the nonprofit sector).
+  Over 5 years of experience as a data analyst developing ML solutions to diverse problems.
   <br />
-  M.Sc. in Data Science from BGU, Israel (thesis in deep ensemble learning for time-series forecasting).
+  M.Sc. in Data Science from BGU, Israel (thesis in Deep Ensemble Learning for Time-Series Forecasting).
   <br />
-  Proficient with deep learning frameworks in High-Performance Computing.
+  Proficient with Deep Learning frameworks in High-Performance Computing environments.
   <br />
   <br />
   With a proven track record of delivering results-driven solutions and a commitment to staying at the forefront of industry advancements, I am eager to contribute my expertise and drive success within any data-focused team.
